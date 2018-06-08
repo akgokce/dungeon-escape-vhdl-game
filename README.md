@@ -3,7 +3,7 @@ An old-style Dungeon Escape game that runs on an FPGA, implemented in VHDL
 
 Note: All the work on this project has been done collaboratively by "sefak" and "akgokce" - Commit history does not reflect the actual workflow, pushings were done after everything was set.
 
-[![A photo from this project](https://i.imgur.com/fDPFWXz.png)](https://vimeo.com/273938913 "A video of this project")
+[![A photo from this project](https://i.imgur.com/OzcGAqS.png)](https://vimeo.com/273938913 "A video of this project")
 
 Brief Game Design:
 The game has 4 states: Start, Gameplay, Win, and Gameover.
