@@ -9,6 +9,10 @@ Brief Game Design:
 The game has 4 states: Start, Gameplay, Win, and Gameover.
 The objective is to reach the exit door without hitting any obstacle or monster within 180 seconds. To do that, the player has to pick up the key and open the exit door.
 
+
+![State diagram of this project](https://i.imgur.com/VjZgCeD.jpg)
+
+
 Notes on Generating Bit File:
 This project does not generate programming file on Windows 10 machine using Xilinx ISE Design Suite 14.7. Instead, use Xilinx on Windows 7 or Linux based operating system.
 The game is designed for Nexys 3 board based on Spartan 6 architecture and it uses 98% device's resources.
